@@ -2,16 +2,16 @@
 
 <img height="180" align="right" src="https://github.com/devhaozi/devhaozi/assets/115467771/d060d482-4bb5-4287-81cd-8be904987e02">
 
-* 🌍  我来自天朝，常用 ID `haozi` `devhaozi` `耗子` 等
-* 🌍  I am from China, my common IDs are `haozi` `devhaozi` `Rat` etc
-* 🔧  我喜欢探索新技术，会去自学自己感兴趣的一切东西
-* 🔧  I like to explore new technologies and learn everything I am interested in
-* ✉️  通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
-* ✉️  Can contact me via this email [haozi@loli.email](mailto:haozi@loli.email)
-* 🚀  我目前在 [树新蜂](https://github.com/TheTNB) 团队工作
-* 🚀  I am currently working in the [TNB](https://github.com/TheTNB) team
-* 😄  可以在下面了解更多我的项目，或通过单击「Follow」按钮订阅我
-* 😄  Can learn more about my projects below, or subscribe me by clicking the "Follow" button
+* 🌍 我来自天朝，常用 ID `haozi` `h2zi` `devhaozi` `耗子` 等
+* 🌍 I am from China, my common IDs are `haozi`, `h2zi`, `devhaozi`, `耗子` etc
+* 🔧 我喜欢探索新技术，会去自学自己感兴趣的一切东西
+* 🔧 I like to explore new technologies and learn everything I am interested in
+* ✉️ 通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
+* ✉️ Can contact me via this email [haozi@loli.email](mailto:haozi@loli.email)
+* 🚀 我目前在 [树新蜂](https://github.com/tnborg) 团队工作
+* 🚀 I am currently working in the [TNB](https://github.com/tnborg) team
+* 😄 可以在下面了解更多我的项目，或通过单击「Follow」按钮订阅我
+* 😄 Can learn more about my projects below, or subscribe me by clicking the "Follow" button
 
 
 ## 技术栈（Technologies）
@@ -68,10 +68,10 @@
 ## 状态数据（Status）
 
 <div align="center">
-<img height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devhaozi&show_icons=true&hide_border=true&count_private=true&role=owner,collaborator&locale=cn" />
-<img height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devhaozi&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&role=owner,collaborator&locale=cn" />
-<img src="https://streak-stats.demolab.com/?user=devhaozi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devhaozi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true" />
+<img height=160 src="./assets/stats.svg" />
+<img height=160 src="./assets/top-langs.svg" />
+<img src="https://streak-stats.demolab.com/?user=h2zi&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=h2zi&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true" />
 </div>
 
 <!--START_SECTION:waka-->

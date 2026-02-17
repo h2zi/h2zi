@@ -1,5 +1,4 @@
 name: Waka Readme
-
 on:
   schedule:
     - cron: '0 * * * *'
@@ -8,6 +7,8 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     continue-on-error: true
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -15,8 +16,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "zh"
-          COMMIT_USERNAME: "耗子"
-          COMMIT_EMAIL: "haozi@loli.email"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
           COMMIT_MESSAGE: "chore: update WakaTime status"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
