@@ -6,7 +6,7 @@
 * 🔧 I like to explore new technologies and learn everything I am interested in
 * ✉️ 通过此邮箱可以联系我 [haozi@loli.email](mailto:haozi@loli.email)
 * ✉️ Can contact me via this email [haozi@loli.email](mailto:haozi@loli.email)
-* 🚀 我目前在 [树新蜂](https://github.com/tnborg) 团队工作
+* 🚀 我目前在 [树新峰](https://github.com/tnborg) 团队工作
 * 🚀 I am currently working in the [TNB](https://github.com/tnborg) team
 * 😄 可以在下面了解更多我的项目，或通过单击「Follow」按钮订阅我
 * 😄 Can learn more about my projects below, or subscribe me by clicking the "Follow" button
